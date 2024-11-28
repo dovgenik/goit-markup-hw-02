@@ -120,7 +120,9 @@ ol {
     text-align: center;
     color: #2E2F42;
 }
-
+.our-team-list {
+    background-color: #FFFFFF;
+}
 .our-team-item {
     background-color: #FFFFFF;
 }

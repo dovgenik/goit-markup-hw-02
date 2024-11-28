@@ -107,15 +107,18 @@ ol {
 }
 
 /* BLOCK OUR TEAM *********************************/
-
+.our-team {
+    background-color: #F4F4FD;
+}
 .our-team-header {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
     color: #2E2F42;
-
+    background-color: #FFFFFF;
 }
 
 .our-team-name {
@@ -142,6 +145,7 @@ ol {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2E2F42;
 }
 
